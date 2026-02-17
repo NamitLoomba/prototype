@@ -1,0 +1,4 @@
+# Minimal requirements for prototype
+streamlit
+plotly
+pandas
